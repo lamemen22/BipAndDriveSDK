@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/lamemen22/BipAndDriveSDK.git"
 
-  spec.license      = {: type => "MIT",: file => "LICENSE"}
+  spec.license      = "LICENSE"
 
   spec.author             = { "isegura" => "isegura@deloitte.es" }
 
