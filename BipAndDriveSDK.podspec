@@ -1,11 +1,10 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BipAndDriveSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.3.0"
   spec.summary      = "Prueba SDK BipAndDriveSDK."
 
-  spec.description  = <<-DESC
-                   DESC
+  spec.description  = "podspec description"
 
   spec.homepage     = "https://github.com/lamemen22/BipAndDriveSDK.git"
 
