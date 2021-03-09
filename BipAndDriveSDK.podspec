@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "isegura" => "isegura@deloitte.es" }
 
-  spec.source       = { :git => "http://EXAMPLE/BipAndDriveSDK.git", :tag => "#{spec.version}" }
+  spec.source       = "https://github.com/lamemen22/BipAndDriveSDK.git"
 
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
