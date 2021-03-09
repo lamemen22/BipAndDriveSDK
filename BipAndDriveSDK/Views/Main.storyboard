@@ -14,7 +14,7 @@
                         <viewControllerLayoutGuide type="top" id="mZe-2a-2DN"/>
                         <viewControllerLayoutGuide type="bottom" id="kYp-0S-BoQ"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="rXW-PK-ND3">
+                    <view key="view" contentMode="scaleToFill" restorationIdentifier="HomeViewController" id="rXW-PK-ND3" customClass="HomeViewController" customModule="BipAndDriveSDK" customModuleProvider="target">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>

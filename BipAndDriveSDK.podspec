@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     
   spec.name         = "BipAndDriveSDK"
-  spec.version      = "0.3.3"
+  spec.version      = "0.3.4"
   spec.summary      = "Prueba SDK BipAndDriveSDK."
   spec.platform = :ios
     spec.ios.deployment_target = '12.0'
@@ -18,9 +18,9 @@ Pod::Spec.new do |spec|
     spec.dependency 'Alamofire', '~> 4.7'
     spec.dependency 'MBProgressHUD', '~> 1.1.0'
 
-  spec.source       = { :git => "https://github.com/lamemen22/BipAndDriveSDK.git", :tag => "0.3.3" }
+  spec.source       = { :git => "https://github.com/lamemen22/BipAndDriveSDK.git", :tag => "0.3.4" }
 
-  spec.source_files = "BipAndDriveSDK/**/*.{swift}"
+  spec.source_files = "BipAndDriveSDK/**/*"
   spec.resources = "BipAndDriveSDK/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   spec.swift_version = "4.2"
 
