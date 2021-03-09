@@ -1,0 +1,6 @@
+module Pods_BipAndDriveSDK {
+  umbrella header "Pods-BipAndDriveSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
