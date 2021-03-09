@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BipAndDriveSDK"
-  spec.version      = "0.3.0"
+  spec.version      = "0.3.1"
   spec.summary      = "Prueba SDK BipAndDriveSDK."
 
   spec.description  = "podspec description"
